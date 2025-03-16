@@ -5,7 +5,7 @@ SolarTherm-HG is a **large-scale, high-resolution thermal imaging dataset** desi
 
 SolarTherm-HG is designed to aid researchers in **thermal image processing, homography estimation, and PV system fault detection**. The dataset captures various environmental conditions, including different cleanliness levels, time-of-day variations, and image perspectives.
 
-📂 **Dataset DOI**: [10.7910/DVN/E4OXHQ]([https://doi.org/10.7910/DVN/E4OXHQ](https://doi.org/10.7910/DVN/IPU9RS))  
+📂 **Dataset DOI**: [10.7910/DVN/E4OXHQ](https://doi.org/10.7910/DVN/E4OXHQ](https://doi.org/10.7910/DVN/IPU9RS)  
 🛠 **GitHub Repository**: [SolarTherm-HG Repository](https://github.com/SolarTherm-HG/Dataset)  
 
 ---
