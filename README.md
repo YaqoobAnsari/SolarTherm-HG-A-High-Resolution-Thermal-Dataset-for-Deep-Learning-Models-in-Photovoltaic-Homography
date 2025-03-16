@@ -1,12 +1,5 @@
 # SolarTherm-HG-A-High-Resolution-Thermal-Dataset-for-Deep-Learning-Models-in-Photovoltaic-Homography
 
-Here's a structured **README.md** file for the **SolarTherm-HG** dataset repository. This README includes sections on dataset details, usage, structure, preprocessing, and code integration, ensuring that users can easily understand and utilize the dataset.  
-
----
-
-## **SolarTherm-HG: High-Resolution Thermal Dataset for Photovoltaic Homography**
-**Advancing Deep Learning in Thermal Imaging & Photovoltaic System Analysis**
-
 ### **Overview**
 SolarTherm-HG is a **large-scale, high-resolution thermal imaging dataset** designed to support deep learning models in **thermal homography** for **photovoltaic (PV) systems**. It contains **12,460 raw thermal images (640×512 resolution)**, systematically captured under diverse conditions. The dataset is expanded to **49,840 images (320×256 resolution)** through patching and preprocessing, with homography pairs generated for deep learning applications.
 
@@ -143,7 +136,4 @@ If you use SolarTherm-HG in your research, please cite:
 This dataset was developed at **Carnegie Mellon University-Qatar** and **Qatar Environment and Energy Research Institute (QEERI)**, supported by the **AICC grant AICC04-0715-210006** from the **Qatar National Research Fund**.
 
 For questions, contact: **[yansari@andrew.cmu.edu](mailto:yansari@andrew.cmu.edu)**  
-
----
-
-This **README** ensures clarity, completeness, and ease of use for researchers. Let me know if you need further refinements! 🚀
+ 
