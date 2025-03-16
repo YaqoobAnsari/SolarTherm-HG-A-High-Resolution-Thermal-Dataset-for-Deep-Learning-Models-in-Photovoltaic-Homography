@@ -1,0 +1,1 @@
+# SolarTherm-HG-A-High-Resolution-Thermal-Dataset-for-Deep-Learning-Models-in-Photovoltaic-Homography
